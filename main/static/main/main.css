@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(240, 232, 232);
+}
+
+aside{
+    float: left;
+    background: yellow;
+    width: 20%;
+    padding: 2.5%;
+    height: 100vh;
+    color: rgb(85, 12, 12);
+    border-radius: 5px solid;
+}
